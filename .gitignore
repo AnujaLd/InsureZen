@@ -1,0 +1,67 @@
+# .NET
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.cache
+*.pidb
+*.psess
+*.vshost.exe
+*.log
+*.vs/
+*.vscode/
+bin/
+obj/
+TestResults/
+packages/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Publish
+*.nupkg
+*.nuget.props
+*.nuget.targets
+publish/
+
+# Entity Framework
+Migrations/ snapshot
+
+# JWT
+appsettings.Development.json

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InsureZen.API/InsureZen.API.csproj" />
+  <Project Path="InsureZen.Core/InsureZen.Core.csproj" />
+  <Project Path="InsureZen.Infrastructure/InsureZen.Infrastructure.csproj" />
+  <Project Path="InsureZen.Tests/InsureZen.Tests.csproj" />
+</Solution>
